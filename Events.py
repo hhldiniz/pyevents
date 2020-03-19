@@ -27,3 +27,6 @@ class Observable(ABC):
 
     def add_listener(self, listener):
         self.__listeners.append(listener)
+
+    def remove_listener(self, listener):
+        self.__listeners.remove(listener)
