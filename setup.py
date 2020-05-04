@@ -1,8 +1,8 @@
 from distutils.core import setup
 
 setup(
-    name="pyevents",
-    packages=["pyevents"],
+    name="pyobserver",
+    packages=["pyobserver"],
     version="1.0",
     license="MIT",
     description="A small library developed with Python 3.6 that implements Observer pattern using RLock to achieve "
