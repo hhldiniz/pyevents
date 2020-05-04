@@ -1,6 +1,6 @@
 # pyevents
 
-# EN-US
+## EN-US
 A small library developed with Python 3.6 that implements Observer pattern using RLock to achieve thread synchronization;
 
 This library consists of just two abstract classes:
@@ -9,7 +9,7 @@ This library consists of just two abstract classes:
 * Observable
   > The class responsible for maintain the controll of Observer classes interested in receiving notifications. It's also possible to pass arguments to those classes.
 
-# PT-BR
+## PT-BR
 Uma pequena biblioteca desenvolvida com Python 3.6 que implementa o padrão Observer usando RLock para sincronização de threads;
 
 Esta biblioteca consiste em apenas duas classes abstratas:
