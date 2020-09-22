@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
     name="pyobserver",
     packages=["pyobserver"],
-    version="1.0",
+    version="1.1",
     license="MIT",
     description="A small library developed with Python 3.6 that implements Observer pattern using RLock to achieve "
                 "thread synchronization",
